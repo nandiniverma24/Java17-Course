@@ -1,4 +1,4 @@
-package org.java17;
+package org.java17.Arrays;
 
 import java.util.Arrays;
 import java.util.Random;
